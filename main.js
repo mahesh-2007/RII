@@ -14,8 +14,8 @@ reveals.forEach(el => observer.observe(el));
 
 // --- EMAILJS CONFIGURATION (replace these with your own values) ---
 const EMAILJS_USER_ID = 'pavipavi8087@gmail.com';
-const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
-const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
+const EMAILJS_SERVICE_ID = 'pavipavi8087@gmail.com';
+const EMAILJS_TEMPLATE_ID = 'pavipavi8087@gmail.com';
 
 // NOTE: EmailJS won't work when opening the page as a local file (file://).
 //       Serve it over http:// or https:// (e.g., via a simple local server).
