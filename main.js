@@ -13,7 +13,7 @@ reveals.forEach(el => observer.observe(el));
 // ── CONTACT FORM ──
 
 // --- EMAILJS CONFIGURATION (replace these with your own values) ---
-const EMAILJS_USER_ID = 'YOUR_USER_ID';
+const EMAILJS_USER_ID = 'pavipavi8087@gmail.com';
 const EMAILJS_SERVICE_ID = 'YOUR_SERVICE_ID';
 const EMAILJS_TEMPLATE_ID = 'YOUR_TEMPLATE_ID';
 
